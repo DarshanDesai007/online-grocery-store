@@ -13,8 +13,8 @@
     "data:destroy": "node backend/seeder -d",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
   },
-  "author": "Siv Ram",
-  "license": "MIT",
+  "author": "Darshan Desai",
+  "license": "Parul University",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
